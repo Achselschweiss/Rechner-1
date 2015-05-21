@@ -11,7 +11,7 @@ public class Aufgabe2 {
 		int keepRunning = 1;
 		
 		while (keepRunning == 1){
-			System.out.println("Hallo ich bin Programm 700.0");
+			System.out.println("Hallo ich bin Programm Missgeburt 2.0");
 			
 			System.out.println("Gib die erste Zahl ein.");
 				int a = s.nextInt();
